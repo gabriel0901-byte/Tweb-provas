@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<html lang="pt-br">
+   <head>
+      <Meta charset="UTF-8"
+   </head>
+   <body>
+       <header>
+            <ul>
+   <nav>
+      <li><a href="#sobre">sobre</a></li>
+      <li><a href="#home">home</a></li>
+      <li><a href="#meus projetos">meus projetos</a></li>
+      <li><a href="#minhas tecnologias">minhas tecnologias</a></li>
+        <li><a href="#rodapé">rodapé</a></li>
+         </ul>
+      </nav>
+         </header>   
+     <main>
+       <section>
+       <h1>Joaquim Gabriel</h1>
+       <p> este é um mini projeto,se trata de um portfólio contendo alguma informações sobre mim e outras coisas</p>
+       <img scr="https://share.google/P9uDOpG2dyz1UjzAy" alt="imagem representativa do autor">
+         </section>
+       
+       <section>
+         <h2>Sobre mim</h2>
+       <p> Olá, meu nome é <em>Joaquim Gabriel</em> e sou estudante do curso de informática do IFCE,estou no primeiro ano,o que faz de mim um mero aprendiz mas tenho grande <strong>ambição</strong> pra me dedicar e buscar me <span>aperfeiçoar</span> na área.</p>
+         <img scr="https://share.google/R4rUoKIi44XaQw4N5" alt="logos que remetem a área da programação">
+         </section>
+       <section>
+         <h2>Meus projetos</h2>
+         <h3>Casa inteligente</h3>
+           <p>As IA vem dominando a internet,que tal você ter uma casa que pode ser controlada remotamente por você? este site contém diversar opções de objetos e ideias de como você pode aprimorar sua casa e deixá-la ainda mais conectada a você</p>
+         <img scr="Casainteligente" alt="uma casa tecnológica">
+         <br>
+         <a href="Ideiacasainteligente.com">acesse aqui</a>
+         <h3>Horta caseira</h3>
+<p>ja pensou em fazer uma mini plantação dentro de casa mesmo? Aqui você encontra informações sobre como fazer isso, além de quais legumes e verduras são mais apropriados e os cuidados que devem ser tomados.</p>
+         <img scr="Hortacaseira" alt="uma mini plantação dentro de uma casa">
+         <br>
+         <a href="hortacaseira.com">Acesse por aqui<a>
+           <h3>Quiz personalizado</h3>
+           <p>Aqui você pode escolher o tema que quiser e preparemos 10 perguntas sobre o tema dado,Teste seus conhecimentos e melhore sua aprendizagem em qualquer área sobre qualquer assunto!</p>
+           <img scr="imagemquiz" alt="um cérebro escrito(quiz)">
+           <br>
+           <a href="quizpersonalizado.com">Teste seus conhecimentos aqui</a>
+           </section>
+           <section>
+             <h1>Minhas tecnologias</h1>
+             <ul>
+               <li>HTML</li>
+               <p>HTML é a sigla para HyperText Markup Language (Linguagem de Marcação de Hipertexto), a linguagem fundamental para criar e estruturar o conteúdo de páginas da web</p>
+               <li>CSS</li>
+               <p>CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma linguagem de estilo que descreve a apresentação e o aspeto visual de documentos, principalmente de páginas web escritas em HTML</p>
+               <li>JavaScript</li>
+               <p>JavaScript (JS) é uma linguagem de programação essencial para a web, utilizada para adicionar interatividade e dinamismo a páginas web, permitindo a criação de conteúdo atualizado, animações, jogos e a manipulação de dados e elementos da página</p>
+               </ul>
+             <footer>Desenvolvido por: Joaquim Gabriel dos Santos Silva - 2025</footer>
+             </body>
+           </hml>
+           
