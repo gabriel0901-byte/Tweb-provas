@@ -17,18 +17,18 @@
       </nav>
          </header>   
      <main>
-       <section>
+       <section id="sobre">
        <h1>Joaquim Gabriel</h1>
        <p> este é um mini projeto,se trata de um portfólio contendo alguma informações sobre mim e outras coisas</p>
        <img src="https://share.google/P9uDOpG2dyz1UjzAy" alt="imagem representativa do autor">
          </section>
        
-       <section>
+       <section id="home">
          <h2>Sobre mim</h2>
        <p> Olá, meu nome é <em>Joaquim Gabriel</em> e sou estudante do curso de informática do IFCE,estou no primeiro ano,o que faz de mim um mero aprendiz mas tenho grande <strong>ambição</strong> pra me dedicar e buscar me <span>aperfeiçoar</span> na área.</p>
          <img src="https://share.google/R4rUoKIi44XaQw4N5" alt="logos que remetem a área da programação">
          </section>
-       <section>
+       <section="meus projetos">
          <h2>Meus projetos</h2>
          <h3>Casa inteligente</h3>
            <p>As IA vem dominando a internet,que tal você ter uma casa que pode ser controlada remotamente por você? este site contém diversar opções de objetos e ideias de como você pode aprimorar sua casa e deixá-la ainda mais conectada a você</p>
@@ -46,7 +46,7 @@
            <br>
            <a href="quizpersonalizado.com">Teste seus conhecimentos aqui</a>
            </section>
-           <section>
+           <section="minhas tecnologias">
              <h1>Minhas tecnologias</h1>
              <ul>
                <li>HTML</li>
